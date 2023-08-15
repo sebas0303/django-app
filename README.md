@@ -1,5 +1,4 @@
-# Proyecto Unidad 04 [Aula 06]
-Este es un proyecto de Silabuz Academy del Curso MPTE Backend de la Unidad 04.
+# Portafolio en Django
 
 ## Autor ✒️
 - **Sebastian Arquinigo Flores** - [sebas0303](https://github.com/sebas0303)
